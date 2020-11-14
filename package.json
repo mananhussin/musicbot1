@@ -2,6 +2,12 @@
   "name": "music-bot",
   "version": "1.0.0",
   "main": "index.js",
+  "start": "node index.js",
+  "engines": {
+
+    "node": "12.x"
+
+  }
   "repository": "https://github.com/ZerioDev/Music-bot.git",
   "author": "ZerioDev",
   "license": "MIT",
